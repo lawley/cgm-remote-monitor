@@ -98,7 +98,7 @@
     "swagger-ui-dist": "^3.18.0",
     "traverse": "^0.6.6",
     "uglify-js": "^3.4.6",
-    "uuid": "^3.2.1"
+    "uuid": "^8.3.1"
   },
   "devDependencies": {
     "benv": "^3.3.0",
