@@ -84,7 +84,7 @@
     "mongomock": "^0.1.2",
     "mqtt": "^2.18.3",
     "node-cache": "^4.2.0",
-    "parse-duration": "^0.1.1",
+    "parse-duration": "^1.0.0",
     "prettyjson": "^1.2.1",
     "pushover-notifications": "^0.2.4",
     "random-token": "0.0.8",
